@@ -115,7 +115,7 @@ I'm particularly interested in the intersection of **software, data, and real-wo
 
 I'm always interested in learning from other developers, collaborating on interesting projects, and exploring new technologies.
 
-* 💼 LinkedIn: **www.linkedin.com/in/devansh_maini**
+* 💼 LinkedIn: **https://www.linkedin.com/in/devansh-maini/**
 * 📧 Email: **devansh.maini2007@gmail.com**
 
 
