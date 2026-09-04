@@ -115,10 +115,9 @@ I'm particularly interested in the intersection of **software, data, and real-wo
 
 I'm always interested in learning from other developers, collaborating on interesting projects, and exploring new technologies.
 
-* 💼 LinkedIn: **[Add your LinkedIn]**
-* 📧 Email: **[Add your email]**
-* 💻 LeetCode: **[Add your profile]**
-* 🌐 Portfolio: **[Add your portfolio when available]**
+* 💼 LinkedIn: **www.linkedin.com/in/devansh_maini**
+* 📧 Email: **devansh.maini2007@gmail.com**
+
 
 ---
 
