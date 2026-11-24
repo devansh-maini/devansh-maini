@@ -1,175 +1,254 @@
+# Devansh Maini
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Devansh%20Maini&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Devansh%20Maini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%20%7C%20Data%20Science&descAlignY=60&descSize=18" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+Arya+College%2C+Jaipur;BS+in+Data+Science+%26+Applications+%40+IIT+Madras;I+build+practical+software+with+Python%2C+Flask+%26+Java;Turning+concepts+into+working+projects+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/devansh-maini/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devansh.maini2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/devansh-maini">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=devansh-maini&label=Profile%20Views&color=2c5364&style=flat-square" />
 
-<a href="https://www.linkedin.com/in/devansh-maini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:devansh.maini2007@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=devansh-maini&label=Profile%20Views&color=2c5364&style=for-the-badge"/>
+**Building software. Exploring intelligent systems. Turning ideas into practical solutions.**
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **3rd-year B.Tech CSE student** at **Arya College of Engineering & IT, Jaipur**, studying alongside the **BS in Data Science & Applications at IIT Madras**.
+I'm a **3rd-year Computer Science and Engineering student** at **Arya College of Engineering & IT, Jaipur (RTU)**, concurrently pursuing the **BS in Data Science and Applications at IIT Madras**.
 
-I like knowing how things work under the hood, and I learn best by building. My work sits at the intersection of **software, data, and real-world systems**: backend apps, databases, APIs, and the analysis that turns data into decisions.
+I enjoy building practical applications that combine software engineering, data and AI. My experience spans full-stack development, backend systems, database management, AI integrations and software testing.
 
-```python
-class Devansh:
-    def __init__(self):
-        self.education = ["B.Tech CSE (Arya College, Jaipur)", "BS Data Science & Applications (IIT Madras)"]
-        self.languages = ["Python", "Java", "C", "C++", "SQL"]
-        self.currently = ["Sharpening DSA", "NumPy & Pandas", "Git & GitHub", "Google Cloud Platform"]
-        self.curious_about = ["Machine Learning", "IoT & Robotics", "Backend Systems"]
-        self.goal = "Strong fundamentals → meaningful projects → real-world software"
+I've worked on academic management systems, adaptive assessment platforms, AI-powered financial applications and multi-role web applications.
 
-    def say_hi(self):
-        return "Open to collaboration, learning, and interesting problems 🤝"
-```
+- 🎓 B.Tech CSE — RTU | CGPA: **9.60/10**
+- 🎓 BS Data Science & Applications — IIT Madras
+- 💼 Former Software Testing Intern at **Technaitra IT Solution and Consultancy**
+- 🤖 Interested in AI/ML, Generative AI, Data Science and Backend Engineering
+- 🏆 Advanced through the internal college selection round for SIH 2026
+- 🌱 Currently strengthening Data Structures, Algorithms and Machine Learning
 
-<br/>
+---
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<div align="center">
+**Programming Languages**
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css&theme=dark" /><br/>
+**Data Science & Machine Learning**
 
-**Backend & Databases**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,sqlite&theme=dark" /><br/>
+**AI & Generative AI**
 
-**Data & Cloud** *(currently learning)*
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-34495E?style=flat-square)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-34495E?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,gcp&theme=dark" /><br/>
+**Web & Backend Development**
 
-**Tools**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=git,github,bootstrap,vscode&theme=dark" />
+**Databases & Testing**
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-<br/>
+**Tools & Platforms**
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Software Testing Intern | Technaitra IT Solution and Consultancy**
+
+*15 May 2026 – 30 June 2026 | Mohali*
+
+- Performed manual, UI, functional, database and API testing.
+- Developed automation scripts using Selenium WebDriver.
+- Worked with pytest, Flask REST APIs and SQLite backend systems.
+- Gained practical exposure to software quality assurance and testing workflows.
+
+---
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. ScholarTrack — AI-Powered Academic Management System
 
-### 🏔️ SummitSync
-**Trek management platform** built with Flask for the IITM BS Application Development course.
+**Tech:** Java, Spring Boot, React, TypeScript, Electron, PostgreSQL, Groq API
 
-- Separate **Admin, Staff & User** identity tables with role-based access
-- Blueprint-based routing and Flask-Login authentication
-- **Race-condition-safe bookings** using atomic SQL updates
-- CSRF protection, Bootstrap UI, automated end-to-end tests
+A desktop-based academic management platform designed to streamline institutional workflows.
 
-`Python` `Flask` `SQLite` `Bootstrap`
+- Implemented secure JWT authentication and Role-Based Access Control (RBAC).
+- Developed modules for student management, attendance, assignments, fees and notices.
+- Integrated AI-powered assistance using Groq API.
+- Built a desktop application using Electron with a modern React frontend.
 
-<!-- 🔗 [View Repository](https://github.com/devansh-maini/YOUR_REPO) -->
+### 2. Numerix AI — Smart India Hackathon 2026
 
-</td>
-<td width="50%" valign="top">
+**Problem Statement:** MoSPI | PS 26101
 
-### 💬 Modern TCP Chat
-**Real-time chat app** in pure Java Swing over TCP/IP sockets. No external libraries.
+**Tech:** React, TypeScript, FastAPI, RAG, AI/ML
 
-- Client–server messaging via `ServerSocket` / `Socket`
-- WhatsApp/Instagram-inspired UI: gradients, rounded bubbles, avatars
-- Typing indicator and emoji support
-- Entire app in a single compilable file
+An adaptive assessment platform designed for official statistics and competency development.
 
-`Java` `Swing` `Sockets` `Networking`
+- Implemented adaptive assessments using 2-Parameter Item Response Theory (2PL IRT).
+- Designed Computerized Adaptive Testing (CAT) workflows.
+- Integrated automated MCQ generation and formula verification.
+- Developed learning-gap insights for personalized assessment.
 
-<!-- 🔗 [View Repository](https://github.com/devansh-maini/YOUR_REPO) -->
+*Advanced through the internal college selection round for SIH 2026.*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 3. FinSight AI — AI-Powered Expense Manager
 
-### 🎓 SIH 2026 — AI Skill-Gap Platform
-**Smart India Hackathon 2026** entry for MoSPI (PS 26101).
+**Tech:** Android, Google Gemini API, Function Calling
 
-- AI-enabled platform that identifies **competency gaps** in officials
-- Personalized training recommendations via **iGOT Karmayogi** integration
-- Auto-generates quizzes/MCQs from uploaded learning material
+An intelligent Android application that helps users understand and manage their financial activities.
 
-`AI/ML` `Education Tech` `Data Systems`
+- Integrated Gemini Function Calling for natural-language expense queries.
+- Developed automated financial analytics and transaction tracking.
+- Enabled intelligent spending insights.
+- Integrated backend services and database functionality.
 
-</td>
-<td width="50%" valign="top">
+### 4. SummitSync — Trekking Management Platform
 
-### ➕ Your Next Project
-More builds in the pipeline across **data science, APIs and backend systems**. Watch the repos for updates.
+**Tech:** Python, Flask, REST APIs, SQLite, Jinja2, Bootstrap
 
-<br/>
+A multi-role trekking management application developed as part of the IIT Madras BS Application Development coursework.
 
-<!-- Replace this card with your next best project -->
+- Implemented separate Admin, Staff and User roles.
+- Developed authentication and role-based access control.
+- Built booking lifecycle management and staff allocation.
+- Implemented concurrency-aware booking constraints and automated validation.
+- Added CSRF protection and automated end-to-end testing.
 
-</td>
-</tr>
-</table>
+### 5. Medha — AI-Powered Learning Platform
 
-<br/>
+**Tech:** Python, React, AI Integration
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 GitHub Stats
+A personalized learning and revision platform designed to make studying more structured and interactive.
+
+- Flashcard-based revision and MCQ assessments.
+- User authentication and content management.
+- Public and private flashcard sharing.
+- AI-powered learning assistance.
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Performance |
+|---|---|---|
+| B.Tech CSE (2024–2028) | Arya College of Engineering & IT, RTU | 9.60/10 CGPA |
+| BS Data Science & Applications | IIT Madras | Diploma Level |
+| Senior Secondary (CBSE) | CBSE | 85.4% |
+| Secondary (CBSE) | CBSE | 93.4% |
+
+---
+
+## 🏅 Certifications & Achievements
+
+**Certifications**
+
+- IIT Madras — Foundation Level Completion, BS Data Science & Applications.
+- NPTEL — Database Management Systems.
+- NPTEL — Python for Data Science.
+- NPTEL — Fundamentals of Object-Oriented Programming.
+- NPTEL — Programming in Java.
+- NPTEL — Data Structures and Algorithm Design.
+- MongoDB — Relational Model (SQL) to Document Model.
+- HackerRank — SQL Basic & Intermediate.
+- Cisco Networking Academy — C Essentials 1.
+- Infosys Springboard — C Programming.
+
+**Achievements & Competitions**
+
+- Advanced through the internal college selection round for Smart India Hackathon 2026.
+- Secured 2nd Merit in Second Semester.
+- Secured 3rd Position in Click The Campus Photography Competition.
+- Participated in Adobe University Hackathon.
+- Participated in Hack for Green Bharat Hackathon.
+- Participated in Eureka Pitching Competition 3.0.
+- Attended Google AI Day for Startups India 2026.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devansh-maini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-maini&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devansh-maini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devansh-maini&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-maini&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-maini&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════ FOCUS ═══════════════════ -->
 ## 🎯 Current Focus
 
-| 🔭 Working on | 🌱 Learning | 🎓 Certified |
-|:--|:--|:--|
-| Flask + REST API projects | NumPy & Pandas | NPTEL: Data Structures & Algorithms |
-| DSA & problem solving | Google Cloud Platform | NPTEL: Object-Oriented Programming |
-| SIH 2026 solution | Git & GitHub workflows | NPTEL: Programming in Java |
+- Strengthening Data Structures and Algorithms.
+- Exploring Machine Learning and statistical learning.
+- Working with NumPy, Pandas and Scikit-learn.
+- Building AI-powered applications and backend systems.
+- Improving software engineering, testing and deployment practices.
 
-<br/>
-
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
-<div align="center">
+---
 
 ## 🤝 Let's Connect
 
-I'm always up for learning from other developers and collaborating on interesting projects.
+I'm interested in collaborating on software development, AI/ML and data-driven projects. Always open to learning, sharing ideas and solving meaningful problems.
 
-<a href="https://www.linkedin.com/in/devansh-maini/"><img src="https://img.shields.io/badge/LinkedIn-devansh--maini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:devansh.maini2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-devansh.maini2007-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/devansh-maini/">
+<img src="https://img.shields.io/badge/LinkedIn-Devansh%20Maini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:devansh.maini2007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-*"Build strong fundamentals → create meaningful projects → keep improving."*
+*"Build with purpose. Learn continuously. Improve relentlessly."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
 
 </div>
